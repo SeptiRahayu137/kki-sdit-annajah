@@ -1,6 +1,6 @@
 # Sistem Informasi & Website Sekolah — SDIT An-Najah Islamic School
 
-Repositori utama Kuliah Kerja Industri (KKI) untuk proyek website dan sistem informasi **SDIT An-Najah Islamic School** (Tim 3 Orang: Mhs A, Mhs B, dan Mhs C) yang dipetakan ke 5 mata kuliah:
+Repositori utama Kuliah Kerja Industri (KKI) untuk proyek website dan sistem informasi **SDIT An-Najah Islamic School** (Tim 3 Orang: Septi, Zara, dan Hema) yang dikonversi ke 5 mata kuliah:
 
 - `T10746-framework/` — Pemrograman Berbasis Framework
 - `T10729-ppl/` — Proyek Perangkat Lunak (PPL)
@@ -9,7 +9,7 @@ Repositori utama Kuliah Kerja Industri (KKI) untuk proyek website dan sistem inf
 - `TI0745-hukum-ti/` — Hukum dan Kebijakan Teknologi Informasi
 
 ## Pembagian Peran Tim (3 Orang)
-| Mata Kuliah | Mhs A | Mhs B | Mhs C |
+| Mata Kuliah | Septi | Zara | Hema |
 | :--- | :--- | :--- | :--- |
 | **TI0746 Framework** | Frontend engineer | Backend dan database engineer | DevOps, cloud deployment, security/auth |
 | **T10729 PPL** | Project Manager | System Analyst | Technical Lead (Git) |
